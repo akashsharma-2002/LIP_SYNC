@@ -5,4 +5,4 @@ A deep fake lip sync model leveraging the pre-trained capabilities of Wav2Lip re
 
 By fine-tuning this model on specific datasets, users can create convincing deep fake videos where the lip movements of a target person are seamlessly synchronized with an alternate audio source. The result is hyper-realistic audio-visual manipulation with potentially concerning implications for misinformation and privacy.
 
-This model is tested with with video_1.mp4 and auido_1.wav and tried using lip sync which has given a wonderful result stored in result.mp4 and result_1.mp4
+This model is tested with with video_1.mp4 and auido_1.wav and tried using lip sync which has given a wonderful result stored in result_voice.mp4 and result_voice_1.mp4
